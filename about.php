@@ -25,10 +25,10 @@
 <div class="my-5 px-4">
   <h2 class="fw-bold h-font text-center">ABOUT US</h2>
   <div class="h-line bg-dark"></div>
-  <p class="text-center mt-5">At BhatGaun, we believe that every guest deserves a unique and unforgettable experience.
-     Nestled center, our hotel is more than just a place to stay; it's a destination in itself. Discover a perfect blend of luxury,
-      comfort, and personalized service that defines the essence of our hospitality.
- 
+  <p class="text-center mt-5">At BhatGaun, every stay is a story waiting to be written. Located at the heart of the village, our hotel offers more than just rooms
+                             it's a serene escape surrounded by brethtaking scenery. Immerse yourself in the perfect harmony of
+                             comfort, luxury, and warm, personalized service, and create memories that will stay with you long after your
+                             journey ends.
 
 .</p>
 </div>
