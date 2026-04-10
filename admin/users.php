@@ -39,7 +39,7 @@ adminLogin();
                                         <th scope="col">#</th>
                                         <th scope="col">Name</th>
                                         <th scope="col">Email</th>
-                                        <th scope="col">Phone no.</th>
+                                        <th scope="col">Phone no:</th>
                                         <th scope="col">Location</th>
                                         <th scope="col">DOB</th>
                                         <th scope="col">Status</th>
