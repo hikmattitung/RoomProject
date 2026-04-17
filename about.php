@@ -35,7 +35,7 @@
         <div class="col-lg-6 col-md-5 mb-4">
             <h3 class="mb-3">Welcome</h3>
             <p>Warm Welcome to everyone in our hotel.
-                Thanking You!!! very much ??? Namaste!!!! dasdaddadadadasdadsddadsadsaddasdasddadasd
+                Thanking You!!! very much ??? Namaste!!!! dasdaddadadadasdadsddadsadsaddasdasddadasdsasaa
         </div>
         <div class="col-lg-5 col-md-4 mb-4">
             <img src="Images/about/about.jpg" class="w-100">
